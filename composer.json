@@ -1,0 +1,33 @@
+{
+    "name": "biosframework/biosf",
+    "description": "Bios Framework.",
+    "keywords": ["framework", "biosf"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5.0",
+    },
+    "autoload": {
+        "classmap": [
+            "database"
+        ],
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+            "tests/TestCase.php"
+        ]
+    },
+    "scripts": {
+        "create-app-folder": [],
+        "clear-app-folder": [],
+        "create-frontend": [],
+        "create-backend": []
+    },
+    "config": {}
+}
