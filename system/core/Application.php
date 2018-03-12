@@ -9,7 +9,7 @@
  * This source file is subject to the  License that is bundled
  * with this package in the file LICENSE.txt.
  * It is also available through the world-wide-web at this URL:
- * http://biosq.com.ar/biosframework/license
+ * http://glosdigital.com.ar/biosframework/license
  * If you did not receive a copy of the license and are unable to
  * obtain it through the world-wide-web, please send an email
  * to pablogcardoso@gmail.com so we can send you a copy immediately.
@@ -23,12 +23,12 @@ namespace Bios;
 
 require_once 'Logger.php';
 /**
- * @see Biosq_Common
+ * @see Bios_Common
  */
 require_once 'Common.php';
         
 /**
- * @see Biosq_loader
+ * @see Bios_loader
  */
 require_once 'Loader.php';
 
@@ -47,7 +47,7 @@ require_once 'Translate.php';
  *
  * @package    Core
  * @author Cardoso Pablo Gaston
- * @copyright  Copyright (c) 2000-2014 Pablo Gaston Cardoso
+ * @copyright  Copyright (c) 2000-2018 Pablo Gaston Cardoso
  * @license GPL License
  * @version    Release: @1.2.0@
  * @link       http://www.glosdigital.com/biosframework
