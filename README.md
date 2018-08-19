@@ -1,6 +1,9 @@
 # Bios Framework 
 This is a open source php framework. It easy , it powerful.
-This modular mvc framework have more than 5 year old, and is compatible for use with another frameworks like Polymer and AngularJs frameworks
+This modular mvc framework have more than 5 year old, and is compatible for use with another frameworks like  AngularJs frameworks
+# Work in Progress
+This project is under development & migration stage.
+
 # Features
 - Modular
 - Multi-language
@@ -19,7 +22,7 @@ This modular mvc framework have more than 5 year old, and is compatible for use 
 The best way is setup the skeleton application.
 
 #Requirements
-Bios Framework requires PHP 5.3 or later.
+Bios Framework requires PHP 5.3 or later. And it 100% compatible with Php 7
 
 #Feedback
 We do love feedback, it doesn't matter if it's positive or not, any feedback is much appreciated. So if you have something to tell us, please email us at biosf_feedbacks@glosdigital.com.
@@ -28,4 +31,4 @@ We do love feedback, it doesn't matter if it's positive or not, any feedback is 
 This is the Bios Framework core. You'll find coming soon the documentation at [glosdigital.com](http://www.glosdigital.com/biosframework/).
 
 # License
-The project is developed by Pablo Gaston Cardoso PHP developer distributed under MIT LICENSE
+The project is developed by Pablo Gaston Cardoso Full stack developer distributed under MIT LICENSE
