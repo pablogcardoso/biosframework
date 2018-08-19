@@ -205,7 +205,7 @@ class Uri{
     /**
      * if you configure apache for rewrite url this is the correct option
      * But if not, you use this with the conventional form.
-     
+     *
      * @return string
      */
     private function getUriQueryString(){
